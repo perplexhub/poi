@@ -6,7 +6,7 @@ import java.util.Date;
 import org.subtlelib.poi.api.style.Style;
 import org.subtlelib.poi.api.style.StyleConfiguration;
 
-import com.google.common.base.Optional;
+import java.util.Optional;
 
 /**
  * Basic data output functionality

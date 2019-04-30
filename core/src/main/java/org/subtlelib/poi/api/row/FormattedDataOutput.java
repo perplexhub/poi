@@ -2,7 +2,7 @@ package org.subtlelib.poi.api.row;
 
 import org.subtlelib.poi.api.style.StyleConfiguration;
 
-import com.google.common.base.Optional;
+import java.util.Optional;
 
 /**
  * Custom data output functionality

@@ -10,7 +10,7 @@ import org.subtlelib.poi.api.style.Style;
 import org.subtlelib.poi.api.totals.ColumnTotalsDataRange;
 import org.subtlelib.poi.api.totals.Formula;
 
-import com.google.common.base.Optional;
+import java.util.Optional;
 
 //TODO think of the case conditionalCell().text() - is text() supposed to move pointer in delegate?
 public class RowContextNoImpl extends AbstractDelegatingRowContext {

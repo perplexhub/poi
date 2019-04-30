@@ -22,7 +22,7 @@ import org.subtlelib.poi.impl.style.system.SystemCellWrapTextStyle;
 
 import com.google.common.annotations.VisibleForTesting;
 import com.google.common.base.Joiner;
-import com.google.common.base.Optional;
+import java.util.Optional;
 
 
 public class RowContextImpl extends AbstractDelegatingRowContext {
